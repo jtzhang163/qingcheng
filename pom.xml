@@ -11,6 +11,8 @@
         <module>qingcheng_common</module>
         <module>qingcheng_common_service</module>
         <module>qingcheng_common_web</module>
+        <module>qingcheng_pojo</module>
+        <module>qingcheng_interface</module>
     </modules>
 
 
